@@ -1,7 +1,10 @@
 #include<stdio.h>
 int main(){
-while(1){
+int i=0;
+
+    while(i!=10){
     printf("hola");
+i++;
 }
     return 0;
 }
